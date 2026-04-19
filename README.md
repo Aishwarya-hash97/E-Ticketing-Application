@@ -102,8 +102,8 @@ E-Ticketing Application/
 
 ## 👩‍💻 Developed By
 
-**Name:** G. Pranathi
-**Roll No:** 24WH1A0584
+**Name:** B.Aishwarya
+**Roll No:** 24WH1A0585
 
 ---
 
